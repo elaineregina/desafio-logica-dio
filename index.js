@@ -1,1 +1,3 @@
-console.log("Desafio DIO de Lógica");
+let nome = "Elaine";
+
+console.log(nome);
