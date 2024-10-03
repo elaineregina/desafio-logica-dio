@@ -1,6 +1,13 @@
+// Desafio 01: 03/10/2024
+// Aluna: Elaine Regina Gregório Santos
+
+// input
+
 let nome = "Elaine";
-let xp = 15000;
+let xp = 3148;
 let categoria = "";
+
+//process
 
 switch (true) {
   case xp <= 1000:
@@ -31,5 +38,7 @@ switch (true) {
     categoria = "Radiante";
     break;
 }
+
+// output
 
 console.log("O herói " + nome + " está no nível " + categoria);

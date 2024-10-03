@@ -1,6 +1,12 @@
+// Desafio 01: 03/10/2024
+// Aluna: Elaine Regina Gregório Santos
+
+//input
 let nome = "Elaine";
 let xp = 15000;
 categoria = "";
+
+//process
 
 if (xp <= 1000) {
   categoria = "Ferro";
